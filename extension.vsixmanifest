@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="MVC4TwitterBootstrapLayoutPage">
+    <Name>MVC 4 TwitterBootstrap Starter Layout Page (Razor)</Name>
+    <Author>J.Sakamoto</Author>
+    <Version>1.1</Version>
+    <Description xml:space="preserve">MVC 4 Layout Page via Twitter Bootstrap starter template with Razor syntax (CSHTML).</Description>
+    <Locale>1033</Locale>
+    <!--
+    <MoreInfoUrl>http://host/</MoreInfoUrl>
+    -->
+    <License>MicrosoftPublicLicense.txt</License>
+    <!--
+    <PreviewImage>some.png</PreviewImage>
+    -->
+    <SupportedProducts>
+      <VisualStudio Version="11.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+      </VisualStudio>
+      <VisualStudio Version="10.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.5" />
+  </Identifier>
+  <References />
+  <Content>
+    <ItemTemplate>Item</ItemTemplate>
+  </Content>
+</Vsix>

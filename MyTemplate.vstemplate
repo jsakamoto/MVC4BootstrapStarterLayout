@@ -1,0 +1,16 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>_BootstrapLayout.cshtml</DefaultName>
+    <Name>MVC 4 TwitterBootstrap Starter Layout Page (Razor)</Name>
+    <Description>MVC 4 Layout Page via Twitter Bootstrap starter template with Razor syntax (CSHTML)</Description>
+    <Icon>cshtmlfile.ico</Icon>
+    <TemplateID>BootstrapLayout</TemplateID>
+    <ProjectType>CSharp</ProjectType>
+    <TemplateGroupID>MVC4</TemplateGroupID>
+    <SortOrder>10</SortOrder>
+    <RequiredFrameworkVersion>4.0</RequiredFrameworkVersion>
+  </TemplateData>
+  <TemplateContent>
+    <ProjectItem ReplaceParameters="true">_BootstrapLayout.cshtml</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
