@@ -3,7 +3,7 @@
   <Identifier Id="MVC4TwitterBootstrapLayoutPage">
     <Name>MVC 4 TwitterBootstrap Starter Layout Page (Razor)</Name>
     <Author>J.Sakamoto</Author>
-    <Version>1.2</Version>
+    <Version>1.3</Version>
     <Description xml:space="preserve">MVC 4 Layout Page via Twitter Bootstrap starter template with Razor syntax (CSHTML).</Description>
     <Locale>1033</Locale>
     <!--
